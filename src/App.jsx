@@ -3,8 +3,8 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer"; // ✅ Footer import
 import PrivateRoute from "./Routes/PrivateRoute";
 import RedirectIfAuthenticated from "./Routes/RedirectIfAuthenticated";
-import Login from "./pages/login";
-import Register from "./pages/register";
+import Login from "./pages/Login";
+import Register from "./pages/Register";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
